@@ -82,12 +82,12 @@
             <li>Loose Leaf: by letting the leaves freely float around the water (heated), the leaves can release their flavor, nutrients, and caffeine much easier and freely. This allows for a much deeper experience from your tea. Remember to strain or separate the leaves from the liquid before drinking. (though if you like that sort of stuff....who am I to say otherwise) </li>
             <li>Tea Bag: the most common way to experience tea is by holding leaves in a little cloth bag. It offers the chance to release the flavors and nutrients the same way as loose leaves, though the number of leaves can be restricted, which can reduce the flavor and the tea bag itself can also alter the taste. On a bonus point, though, easy clean up! </li>
         </ul>
-        <h4>For more coffee tips and tricks, click the link below!</h4>
-        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:520px">
+        <h4>That is a tea field....pretty right? With tea g brown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
+        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px">
     
    <div class="footer">
         <ul>
-            <li> <a href="https://kenzie-nice.github.io/Kenzie_Nice.github.io/">Home Page</a></li>
+            <li> <a href="https://kenzie-nice.github.io/Losingtrack_of_theseSites.io/">Home Page</a></li>
             <li><a href="https://kenzie-nice.github.io/Contact-Page.io/">Contact Us!</a></li>
             <li><a href="https://kenzie-nice.github.io/About_us.io/">About Us!</a></li>
         </ul>
