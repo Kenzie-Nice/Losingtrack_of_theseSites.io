@@ -15,7 +15,7 @@
             color: black;
         }
         .container {
-            max-width: 800px;
+            width: 90%; /* Adjusted width */
             margin: 50px auto;
             padding: 20px;
             background-color: rgba(255, 255, 255, 0.8);
@@ -108,4 +108,3 @@
     </div>
 </body>
 </html>
-
