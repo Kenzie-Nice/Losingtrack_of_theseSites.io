@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,6 +12,7 @@
             background-image: url('2690293634_8557a484b1_b.jpg');
             background-size: cover;
             background-position: center;
+            color: black;
         }
         .container {
             max-width: 800px;
@@ -43,26 +44,28 @@
         li {
             margin-bottom: 10px;
         }
-        iframe, table {
-            margin: 20px auto;
-            display: block;
+        li a {
+            color: black;
+            text-decoration: none;
         }
-        form {
-            text-align: center;
+        li a:hover {
+            text-decoration: underline;
         }
-        form label {
-            margin-right: 10px;
-        }
-        .footer {
-            text-align: center;
-            margin-top: 50px;
-        }
-        .footer ul {
-            padding: 0;
-        }
-        .footer li {
+        /* Dropdown Menu */
+        .dropdown {
+            position: relative;
             display: inline-block;
-            margin-right: 10px;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
         }
     </style>
 </head>
@@ -84,14 +87,19 @@
         </ul>
         <h4>That is a tea field....pretty right? With tea g brown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
         <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px">
-    
-   <div class="footer">
-        <ul>
-            <li> <a href="https://kenzie-nice.github.io/Losingtrack_of_theseSites.io/">Home Page</a></li>
-            <li><a href="https://kenzie-nice.github.io/Contactpage.io/">Contact Us!</a></li>
-            <li><a href="https://kenzie-nice.github.io/About-us.io/">About Us!</a></li>
-        </ul>
+        <!-- Footer with Dropdown Menu -->
+        <div class="footer">
+            <ul>
+                <li><a href="https://kenzie-nice.github.io/Losingtrack_of_theseSites.io/">Home Page</a></li>
+                <li class="dropdown">
+                    <a href="#">More</a>
+                    <div class="dropdown-content">
+                        <a href="https://kenzie-nice.github.io/Contactpage.io/">Contact Us!</a>
+                        <a href="https://kenzie-nice.github.io/About-us.io/">About Us!</a>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </div>
 </body>
 </html>
-
