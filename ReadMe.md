@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -77,6 +77,11 @@
         }
         .dropdown-content a:hover {
             background-color: #f1f1f1;
+        }
+        @media screen and (max-width: 600px) {
+            .container {
+                width: 95%;
+            }
         }
     </style>
 </head>
