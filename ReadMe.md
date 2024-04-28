@@ -69,7 +69,7 @@
 <body>
     <div class="container">
         <h1><img src="main-qimg-14ff668b1c08bfab4cc710cdfba6a9d3-lq.jpg" alt="Just some coffee" style="width:520px"></h1>
-        <h2>A quick and easy to understand guide to green tea</h2>
+        <h2>A quick and easy-to-understand guide to green tea</h2>
         <p>There are many types of tea from around the world, but by far the best (1penny) is green tea. And with so many varieties and types there are countless expectations of how to brew and steep and even how to handle them. But this will be your go-to quick and easy basic guide for all things tea! (well...the green anyways) </p>
         <p><span style="color: red;">Brewing times and temperatures:</span></p>
         <ol>
@@ -83,24 +83,8 @@
             <li>Tea Bag: the most common way to experience tea is by holding leaves in a little cloth bag. It offers the chance to release the flavors and nutrients the same way as loose leaves, though the number of leaves can be restricted, which can reduce the flavor and the tea bag itself can also alter the taste. On a bonus point, though, easy clean up! </li>
         </ul>
         <h4>For more coffee tips and tricks, click the link below!</h4>
-        <ul>
-            <li><a href="https://www.caffeluxxe.com/blogs/news/11-tips-for-brewing-better-coffee-at-home" target="_blank">Coffee</a></li>
-        </ul>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/fYSnS69a5R0?si=V37nK4hPww7QsNbz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <h5>Still trying to decide what you like for coffee? Fill in the questions below to find out!</h5>
-        <form>
-            <!-- Radio Buttons -->
-            <input type="radio" id="option1" name="option" value="option1">
-            <label for="option1">Stronger flavor</label>
-            <input type="radio" id="option2" name="coffee" value="flavor">
-            <label for="option2">Easy flavor</label>
-            <!-- Checkboxes -->
-            <input type="checkbox" id="checkbox1" name="checkbox1" value="checkbox1">
-            <label for="checkbox1">Milk</label>
-            <input type="checkbox" id="checkbox2" name="checkbox2" value="checkbox2">
-            <label for="checkbox2">Sugar</label>
-        </form>
-    </div>
+        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:520px">
+    
    <div class="footer">
         <ul>
             <li> <a href="https://kenzie-nice.github.io/Kenzie_Nice.github.io/">Home Page</a></li>
