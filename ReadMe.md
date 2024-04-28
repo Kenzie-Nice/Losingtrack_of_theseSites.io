@@ -6,9 +6,11 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #90EE90;
             margin: 0;
             padding: 0;
+            background-image: url('2690293634_8557a484b1_b.jpg'); /* Specify the path to your background image */
+            background-size: cover; /* Cover the entire viewport */
+            background-position: center; /* Center the background image */
         }
         .container {
             max-width: 800px;
