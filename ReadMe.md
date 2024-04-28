@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,7 +15,7 @@
             color: black;
         }
         .container {
-            width: 90%; /* Adjusted width */
+            width: 90%;
             margin: 50px auto;
             padding: 20px;
             background-color: rgba(255, 255, 255, 0.8);
@@ -98,13 +97,13 @@
         </ol>
         <p>Now while you are free to use whatever method you prefer to heat your water with. The best way to have an unaltered flavor is to use a kettle. But you can achieve the same result by boiling the water in a pot on your stove. You can use a microwave in a pinch, but this affects the liquid since it heats up much faster instead of at a more uniform pace. Essentially, the water molecules heat up too fast, altering the water's taste.</p>
         <h3><span class="highlight">Things to remember</span></h3>
-        <ul>    <h3><span class="highlight">Things to remember</span></h3>
         <ul>
             <li>Loose Leaf: by letting the leaves freely float around the water (heated), the leaves can release their flavor, nutrients, and caffeine much easier and freely. This allows for a much deeper experience from your tea. Remember to strain or separate the leaves from the liquid before drinking. (though if you like that sort of stuff....who am I to say otherwise) </li>
             <li>Tea Bag: the most common way to experience tea is by holding leaves in a little cloth bag. It offers the chance to release the flavors and nutrients the same way as loose leaves, though the number of leaves can be restricted, which can reduce the flavor and the tea bag itself can also alter the taste. On a bonus point, though, easy clean up! </li>
-            
-<h4>That is a tea field....pretty right? With tea grown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
+        </ul>
+        <h4>That is a tea field....pretty right? With tea grown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
         <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px">
+        <ul>
             <li class="dropdown">
                 <a href="#">Pages</a>
                 <div class="dropdown-content">
