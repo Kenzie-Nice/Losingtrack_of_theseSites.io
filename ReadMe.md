@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Coffee Making Guide</title>
+    <title>Green Tea</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -45,24 +45,23 @@
 </head>
 <body>
     <div class="container">
-        <h1><img src="Does-Coffee-Make-You-Gain-Weight-2000-9388988c07d247ae9394b7d5b78eaae9.jpg" alt="Just some coffee" style="width:520px"></h1>
-        <h2>How to make a cup of coffee</h2>
-        <p>Making a simple cup of coffee can often make or break someone's day, so let's start by attempting to make it a good one with a good cup of coffee.</p>
-        <p><span style="color: red;">Ingredients:</span></p>
+        <h1><img src="main-qimg-14ff668b1c08bfab4cc710cdfba6a9d3-lq.jpg" alt="Just some coffee" style="width:520px"></h1>
+        <h2>A quick and easy to understand guide to green tea</h2>
+        <p>There are many types of tea from around the world, but by far the best (1penny) is green tea. And with so many varieties and types there are countless expectations of how to brew and steep and even how to handle them. But this will be your go-to quick and easy basic guide for all things tea! (well...the green anyways) </p>
+        <p><span style="color: red;">Brewing times and temperatures:</span></p>
         <ol>
-            <li>Coffee</li>
-            <li>Water</li>
+            <li>for a basic green tea, such as Sencha, the water should be heated to at least 175F or 180F</li>
+            <li>but there are a few, such as Gyokuro, which are meant to drink at a lower temperature, such as 140F</li>
         </ol>
-        <p>Feel free to add any flavoring or creams as desired AFTER the coffee has been properly brewed :)</p>
-        <iframe frameborder="0" scrolling="no" src="https://freesound.org/embed/sound/iframe/552401/simple/large/" width="620" height="245"></iframe>
+        <p>Now while you are free to use whatever method you prefer to heat your water with. The best way to have an unaltered flavor is to use a kettle. But you can achieve the same result by boiling the water in a pot on your stove. You can use a microwave in a pinch, but this affects the liquid since it heats up much faster instead of at a more uniform pace. Essentially, the water molecules heat up too fast, altering the water's taste.</p>
         <!--I'm a note, I'm a note, I am very notey note -->
-        <h3><span class="highlight">Steps</span></h3>
+        <h3><span class="highlight">Things to remember</span></h3>
         <p>
-            After you have prepared your brewing choice of caffeinated goodness and your setup is complete, it's time to start up that coffee maker!
+            There is also the decision of how you would like your tea to steep, which means how yo release the flavor and the caffeine within the leaves. 
             <hr>
             <ul>
-                <li>Using 1TBLS for every 2 cups, scoop your grounds into your filter</li>
-                <li>Make sure your brewer has cold water provided; it will heat up as it brews</li>
+                <li>Loose Leaf: by letting the leaves freely float around the water (heated), the leaves can release their flavor, nutrients, and caffeine much easier and freely. This allows for a much deeper experience from your tea. Remember to strain or separate the leaves from the liquid before drinking. (though if you like that sort of stuff....who am I to say otherwise) </li>
+                <li>Tea Bag: the most common way to experience tea is by holding leaves in a little cloth bag. It offers the chance to release the flavors and nutrients the same way as loose leaves, though the number of leaves can be restricted, which can reduce the flavor and the tea bag itself can also alter the taste. On a bonus point, though, easy clean up! </li>
                 <li>Flip the "ON" switch and sit back and wait</li>
             </ul>
             Making a cup too strong is technically a choice, but only some enjoy overly flavorful coffee. So it's important to use your preferred coffee-to-water ratio regularly and get the hang of a set amount to make a good taste and caffeine. But as mentioned, it's entirely up to you; if you enjoy a coffee so strong that you cringe, by all means!
