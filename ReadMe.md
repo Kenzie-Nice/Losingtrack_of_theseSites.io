@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,6 +47,7 @@
             margin-bottom: 10px;
             display: inline-block;
             margin-right: 20px;
+            position: relative;
         }
         li a {
             color: black;
@@ -53,6 +55,26 @@
         }
         li a:hover {
             text-decoration: underline;
+        }
+        .dropdown-content {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            min-width: 160px;
+            box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+        .dropdown:hover .dropdown-content {
+            display: block;
+        }
+        .dropdown-content a {
+            color: black;
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+        }
+        .dropdown-content a:hover {
+            background-color: #f1f1f1;
         }
     </style>
 </head>
@@ -77,10 +99,19 @@
         <!-- Navigation Menu -->
         <ul>
             <li><a href="https://kenzie-nice.github.io/Losingtrack_of_theseSites.io/">Home Page</a></li>
+            <li class="dropdown">
+                <a href="#">Pages</a>
+                <div class="dropdown-content">
+                    <a href="#">Page 1</a>
+                    <a href="#">Page 2</a>
+                    <a href="#">Page 3</a>
+                </div>
+            </li>
             <li><a href="https://kenzie-nice.github.io/Contactpage.io/">Contact Us!</a></li>
             <li><a href="https://kenzie-nice.github.io/About-us.io/">About Us!</a></li>
         </ul>
     </div>
 </body>
 </html>
+
 
