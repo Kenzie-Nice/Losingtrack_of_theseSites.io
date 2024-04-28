@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -97,7 +98,10 @@
         </ol>
         <p>Now while you are free to use whatever method you prefer to heat your water with. The best way to have an unaltered flavor is to use a kettle. But you can achieve the same result by boiling the water in a pot on your stove. You can use a microwave in a pinch, but this affects the liquid since it heats up much faster instead of at a more uniform pace. Essentially, the water molecules heat up too fast, altering the water's taste.</p>
         <h3><span class="highlight">Things to remember</span></h3>
-        <ul>
+        <ul>    
+            
+<h4>That is a tea field....pretty right? With tea grown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
+        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px">
             <li class="dropdown">
                 <a href="#">Pages</a>
                 <div class="dropdown-content">
