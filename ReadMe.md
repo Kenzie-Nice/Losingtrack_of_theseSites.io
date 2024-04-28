@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@
             margin: 15px 0;
         }
         .highlight {
-            color: red;
+            color: black;
         }
         ul {
             padding-left: 0;
@@ -78,6 +78,10 @@
         .dropdown-content a:hover {
             background-color: #f1f1f1;
         }
+        img.tea-field {
+            display: block;
+            margin: 0 auto;
+        }
         @media screen and (max-width: 600px) {
             .container {
                 width: 95%;
@@ -102,7 +106,7 @@
             <li>Tea Bag: the most common way to experience tea is by holding leaves in a little cloth bag. It offers the chance to release the flavors and nutrients the same way as loose leaves, though the number of leaves can be restricted, which can reduce the flavor and the tea bag itself can also alter the taste. On a bonus point, though, easy clean up! </li>
         </ul>
         <h4>That is a tea field....pretty right? With tea grown all over the world its amazing how vastly different they are not only grown, but picked, dried and stored as well!</h4>
-        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px">
+        <img src="pexels-photo-6711567.jpeg" alt="tea field" style="width:550px" class="tea-field">
         <ul>
             <li class="dropdown">
                 <a href="#">Pages</a>
